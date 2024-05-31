@@ -6,11 +6,10 @@ export default function InstructionsComponent() {
 		<div className={styles.container}>
 			<header className={styles.header_container}>
 				<h1>
-					create<span>-Your-Video-with-a-Simple-Chat</span>
+					edit<span>-Your-Video-with-a-quick-chat</span>
 				</h1>
 				<p>
-					Get started by editing this page in{" "}
-					<span>/pages/index.js</span>
+					Get started by uploading your videos 
 				</p>
 			</header>
 
